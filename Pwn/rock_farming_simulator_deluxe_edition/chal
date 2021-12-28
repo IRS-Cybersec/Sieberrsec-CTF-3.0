@@ -1,0 +1,3 @@
+#!/bin/bash
+EXECUTABLE=rockfarming_simulator
+exec timeout 100 stdbuf -i0 -o0 /home/rock_farming_simulator/$EXECUTABLE

@@ -1,4 +1,4 @@
-# warmup
+# warmup [350|316]
 Just a warmup. `nc de.irscybersec.tk 3476`
 ```c
 #include <stdio.h>
@@ -19,8 +19,10 @@ int main() {
 }
 ```
 
-Extra info if you're lost:
+N.B. please do not try to bruteforce the flag. Attempts at doing so will be taken as an attack on server infrastructure, and will leave you liable for disqualification.
+
+_Author: @main_
+
+## Hints
 * https://ctf101.org/binary-exploitation/buffer-overflow/
 * https://en.wikipedia.org/wiki/Null-terminated_string
-
-N.B. please do not try to bruteforce the flag. Attempts at doing so will be taken as an attack on server infrastructure, and will leave you liable for disqualification.
