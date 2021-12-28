@@ -1,3 +1,8 @@
-# Html + Nginx + Docker
+# Flag checker [150|50]
+http://challs.sieberrsec.tech:15231/
 
-Here's a basic implementation of an nginx web serving a static page with docker. The Dockerfile copies `index.html` and `default.conf` into the container and uses the base nginx image to launch the server.
+Note: There is no reason to use bruteforce for this challenge.
+
+_Author: @main_
+## Hints
+ * right click --> inspect element
