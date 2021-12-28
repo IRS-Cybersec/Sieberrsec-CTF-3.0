@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <style>
+        #result { opacity: 1; transition: opacity 1s; }
+        #result.fade { opacity: 0; }
+        </style>
+    </head>
+    <body>
+        <h1>Flag checker</h1>
+        <form id="flag_input">
+        <input type="text" id="flag">
+        <button type="button" onclick="check_flag()">Check</button>
+        </form>
+        <p id="result"></p>
+    </body>
+    <script src="index.js"></script>
+</html>
