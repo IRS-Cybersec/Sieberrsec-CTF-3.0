@@ -1,0 +1,19 @@
+version: "3"
+
+services:
+  php:
+    networks:
+      - sctf2021-jwt
+    image: php:8.1.0-cli-alpine3.15
+    tty: true
+    ports:
+      - "30593:30593"
+    restart: unless-stopped
+    volumes:
+        - ./chall:/var/www/sctf2021-jwt
+    working_dir: /var/www/sctf2021-jwt
+    command: php -S 0.0.0.0:30593
+
+networks:
+  sctf2021-jwt:
+    driver: bridge

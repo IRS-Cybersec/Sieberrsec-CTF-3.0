@@ -1,0 +1,19 @@
+version: "3"
+
+services:
+  php:
+    networks:
+      - sctf2021-camera
+    image: php:8.1.0-cli-alpine3.15
+    tty: true
+    ports:
+      - "4896:4896"
+    restart: unless-stopped
+    volumes:
+        - ./chall:/var/www/sctf2021-camera
+    working_dir: /var/www/sctf2021-camera
+    command: php -S 0.0.0.0:4896
+
+networks:
+  sctf2021-camera:
+    driver: bridge

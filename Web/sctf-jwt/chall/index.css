@@ -1,0 +1,160 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  overflow-x: hidden;
+  margin: 0;
+  background-color: rgb(32, 32, 32);
+  background: url("windows.jpg");
+  background-attachment: fixed;
+  background-position: 50% 50%;
+  background-size: cover;
+  color: #fff;
+  font-family: "IBM Plex Sans", sans-serif;
+}
+
+header {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
+header > h1 {
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 3rem;
+  margin: 0 12px;
+  text-align: center;
+}
+
+header > p {
+  text-align: center;
+}
+
+header > p > a {
+  font-size: 1.75rem;
+  display: inline-block;
+  margin-top: 8px;
+  color: white;
+}
+
+#tiles {
+  border-top: 24px solid white;
+  padding: 48px 24px 5%;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+#tiles > * {
+  text-align: justify;
+  width: 100%;
+
+  margin-top: 18px;
+  
+  background-color: rgba(0, 0, 0, 0.6);
+  border: 1px solid rgb(102, 102, 102);
+  border-radius: 10px;
+  outline: none;
+  box-shadow: 0 5px 13px 0 #111;
+  backdrop-filter: blur(6px);
+  padding: 6px 18px;
+}
+
+#tiles > h3 {
+  margin: 0;
+  margin-bottom: 12px;
+}
+
+#tiles > #desc {
+  width: 100%;
+}
+
+#jumper {
+	position: absolute;
+	bottom: 0;
+	width: 100vw;
+	height: 85px;
+	background-image: linear-gradient(to bottom,transparent,rgba(0,0,0,.1) 30%,#000);
+}
+
+#jumper > a {
+	left: 50%;
+	bottom: 0;
+	display: block;
+	height: 85px;
+	padding-top: 25px;
+	color: #fff;
+	text-decoration: none;
+	transform: translateX(-50%);
+	position: absolute;
+	text-align: center !important;
+}
+
+#jumper > a::after {
+	content: '';
+	border: solid #fff;
+	border-top-width: medium;
+	border-right-width: medium;
+	border-bottom-width: medium;
+	border-left-width: medium;
+	border-width: 0 2px 2px 0;
+	width: 10px;
+	height: 10px;
+	display: inline-block;
+	transform: rotate(45deg);
+	animation: 2s linear 0s infinite running jump-arrow;
+}
+
+@keyframes jump-arrow {
+	0%, 17%, 32% {
+		transform: translateY(0) rotate(45deg);
+	}
+	10% {
+	  transform: translateY(-8px) rotate(45deg);
+	}
+	25% {
+	  transform: translateY(-3px) rotate(45deg);
+	}
+}
+
+@media screen and (min-width: 900px) {
+  header {
+    flex-direction: row;
+  }
+
+  #tiles > * {
+    width: calc(50% - 18px);
+  }
+
+  header > p {
+    text-align: left;
+  }
+
+  #tiles {
+    padding: 48px 12.5% 24px 12.5%;
+  }
+
+  header > h1 {
+    font-size: 4.5rem;
+    padding-right: 24px;
+    border-right: 2px solid white;
+    margin-left: 0;
+    margin-right: 18px;
+  }
+}
+
+footer {
+  background-color: rgba(0, 0, 0, 0.7);
+  width: 100%;
+  text-align: center;
+  padding: 18px;
+  margin-top: 48px;
+}
+
+footer p {
+  font-size: .85rem;
+}

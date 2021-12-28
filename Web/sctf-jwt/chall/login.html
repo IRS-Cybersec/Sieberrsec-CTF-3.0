@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TaiYang IT Solution</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="index.css">
+</head>
+<body>
+  <div style="background-color: black;">
+    <h1>Service Portal</h1>
+    <a href="javascript:login()">Sign in with Google</a>
+    <p>Through the use of Google Sign-In, we have ensured that all logins are safe and secure.</p>
+    <p>由于 TAIYANG IT SOLUTION 用谷歌的高科技网络安全设施，我们赢得了 ISO 42069</p>
+
+    <p>portal v1</p>
+  </div>
+
+  <footer>
+    <div>
+      <p>
+        All entities portrayed are purely fictional.
+      </p>
+    </div>
+  </footer>
+
+  <script src="https://www.gstatic.com/firebasejs/8.6.7/firebase-app.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.6.7/firebase-auth.js"></script>
+
+  <script>
+    const firebaseConfig = {
+    }; // replace with your own config
+
+    // Initialize Firebase
+    const app = firebase.initializeApp(firebaseConfig);
+
+    var provider = new firebase.auth.GoogleAuthProvider();
+
+    function login() {
+      firebase.auth().signInWithRedirect(provider);
+    }
+
+    firebase.auth()
+      .getRedirectResult()
+      .then((result) => {
+        if (result.credential) {
+          var credential = result.credential;
+          var token = credential.accessToken;
+
+          firebase.auth().currentUser.getIdToken().then(function(idToken) {
+            console.log("OBTAINED ID TOKEN " + idToken);
+
+            let formData = new FormData();
+            formData.append("token", idToken);
+
+            fetch("login-v1.php", {
+              method: 'post',
+              body: formData,
+            }).then(() => {
+              location.href = "login-v1.php";
+            });
+          }).catch(function(error) {
+            console.log("Cannot get ID token?");
+          });
+        }
+        var user = result.user;
+      }).catch((error) => {
+        var errorCode = error.code;
+        var errorMessage = error.message;
+        // ...
+      });
+  </script>
+</body>
+</html>

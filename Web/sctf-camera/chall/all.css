@@ -1,0 +1,41 @@
+* {
+  box-sizing: border-box;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+}
+
+body {
+  overflow-x: hidden;
+  margin: 0;
+  background-color: rgb(32, 32, 32);
+  background: url("background.jpg");
+  background-attachment: fixed;
+  background-position: 50% 50%;
+  background-size: cover;
+  color: #fff;
+  font-family: "IBM Plex Sans", sans-serif;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  display: flex;
+}
+
+#login-form {
+  background-color: rgba(0, 0, 0, 0.5);
+  backdrop-filter: blur(6px);
+  padding: 24px;
+  text-align: center;
+  border-radius: 6px;
+}
+
+input {
+  display: inline-block;
+  border: 0;
+  font-size: 1rem;
+  padding: 12px;
+  border-radius: 4px;
+  background-color: white;
+  margin: 6px;
+}
