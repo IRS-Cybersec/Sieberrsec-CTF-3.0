@@ -1,4 +1,7 @@
-# [Part 1] FUTURE TECHNOLOGIES AI IOT FOURTH INDUSTRIAL REVOLUTION SECURITY CAMERA [100|62]
+# FUTURE TECHNOLOGIES AI IOT FOURTH INDUSTRIAL REVOLUTION SECURITY CAMERA
+_Author: theo_
+
+## Part 1 [100|62]
 In our recent investigations, Siebersec got hold of a
 
 ***FUTURE TECHNOLOGIES AI IOT FOURTH INDUSTRIAL REVOLUTION SECURITY CAMERA*** .
@@ -9,7 +12,7 @@ Try logging in as a camera viewer.
 
 http://challs.sieberrsec.tech:4896
 
-# [Part 2] FUTURE TECHNOLOGIES AI IOT FOURTH INDUSTRIAL REVOLUTION SECURITY CAMERA [100|76]
+## Part 2 [100|76]
 In our recent investigations, Siebersec got hold of a
 
 ***FUTURE TECHNOLOGIES AI IOT FOURTH INDUSTRIAL REVOLUTION SECURITY CAMERA*** .
@@ -19,5 +22,3 @@ I think that the camera is intentionally pointed away from something we need to 
 Find a way to rotate the camera (pan the camera) and let us see more things.
 
 http://challs.sieberrsec.tech:4896
-
-_Author: theo_
