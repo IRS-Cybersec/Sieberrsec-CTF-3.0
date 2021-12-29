@@ -1,4 +1,7 @@
-# TaiYang IT Solution (Part 1) [500|470]
+# TaiYang IT Solution
+_Author: theo_
+
+## Part 1 [500|470]
 
 **13 solves**
 
@@ -14,7 +17,7 @@ You'll need 7zip to open the archive. If you don't have it, [download it](https:
  * Open your browser's Developer Tools!
  * There are more easily-bypassable "security" measures hidden in the portal than the code might suggest.
 
-# TaiYang IT Solution (Part 2) [900|895]
+## Part 2 [900|895]
 
 **4 solves**
 
@@ -34,8 +37,6 @@ Source provided: http://dl.sieberrsec.tech/608fe2851fbf907e0b15c2cecdad531688601
 ^ source is slightly modified from original
 
 **A first blood prize of one (1) $10 GrabGifts Card is available for this challenge.**
-
-_Author: theo_
 
 # Notes
 The `firebaseConfig` variables in all challenge files have been scrubbed to prevent abuse. Please replace those with your own Firebase Configurations.
