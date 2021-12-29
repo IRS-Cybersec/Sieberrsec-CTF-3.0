@@ -3,7 +3,7 @@ Diffie created a new key exchange system to help securely transfer private keys 
 
 Connect here: nc challs.sieberrsec.tech 1337
 
-[chall.py](chall.py)
+[chall.py](bin/chall.py)
 
 _Author: noyou_
 
