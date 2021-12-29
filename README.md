@@ -13,3 +13,15 @@ https://github.com/IRS-Cybersec/ctfdump/tree/master/Sieberrsec%20CTFs/Sieberrsec
 
 https://github.com/junron/writeups/blob/master/2021/sieberrsec
 
+https://github.com/xeniafiorenza/CTF-Writeups/tree/main/Sieberrsec%202021
+
+https://nandynarwhals.org/sieberrsec-ctf-3.0-canyoumathit/
+
+https://nandynarwhals.org/sieberrsec-ctf-3.0-digginginthedump/
+
+https://github.com/absurdtiger/Sieberrsec-CTF-3.0
+
+# Also
+Check out this guy; he cloned all of our challenges and put them up on a public repo faster than _we_ did! 
+
+https://github.com/8061xjl/ctfarchive-sctf-3.0
