@@ -1,9 +1,15 @@
 # SCTF 3.0
+This repository is a dumping ground for all of the challenge files, descriptions, and backend content involved in Sieberrsec CTF 3.0 challenge creation. Well, almost all. There are some things that are not captured in this repo:
+ * "Meta" challenge design documents, e.g. internal testing feedback
+ * Files that were too large to put on git. Mostly forensics.
+ * Things that are not easily captured by files, e.g. IPFS, social media accounts
 
-# Writeups
+If you feel that a challenge archive could use additional information, you may wish to raise an Issue on this repo.
+
+# Writeup dump
 https://github.com/DenseLance/ctf-challenges/tree/main/Sieberrsec%20CTF%203.0
 
-https://github.com/IRS-Cybersec/ctfdump/tree/master/Sieberrsec%20CTFs/Sieberrsec%20CTF%203.0/RE/flag_checker
+https://github.com/IRS-Cybersec/ctfdump/tree/master/Sieberrsec%20CTFs/Sieberrsec%20CTF%203.0/
 
 https://github.com/junron/writeups/blob/master/2021/sieberrsec
 
