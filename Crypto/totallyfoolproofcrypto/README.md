@@ -22,7 +22,7 @@ while 1:
 
 Some amount of "bruteforce" will be necessary -- and hence legal -- for this challenge.
 
-_Author: @main`
+_Author: @main_
 
 ## Hints
  * You should search for ECB related AES crypto CTF problems; this is a rather common newbie challenge
