@@ -8,3 +8,5 @@ _Author: ditzchann_
 ## Hints
  * you may want to google for other instances of mp3 files in CTFs
 
+## Flag
+`IRS{s0m3Th1n9_5ouNDs_w3iRd}`

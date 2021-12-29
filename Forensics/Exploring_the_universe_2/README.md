@@ -1,4 +1,4 @@
-# Exploring the Universe (Part 2)
+# Exploring the Universe (Part 2) [500|479]
 Oh noes! It seems like Agent Myat has some rather fun teammates, and theres something they're trying to hide!
 
 Look for the clues and try to uncover what he has been doing lately.

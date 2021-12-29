@@ -10,5 +10,5 @@ _Author: noyou_
 ## Hints
  * The hint is in the description
 
- # Flag
- IRS{cryptographyiscool}
+## Flag
+`IRS{cryptographyiscool}`

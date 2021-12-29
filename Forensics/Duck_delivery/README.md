@@ -7,3 +7,6 @@ _Author: ditzchann_
 
 ## Hints
 Files can contain other files.
+
+## Flag
+`IRS{H1dD3n_dUck}`

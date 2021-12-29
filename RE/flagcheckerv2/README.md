@@ -11,3 +11,6 @@ _Author: @main_
 
 ## Hints
  * https://github.com/WebAssembly/wabt might be a good starting point.
+
+## Flag
+`IRS{if_only_it_was_all_this_simple}`

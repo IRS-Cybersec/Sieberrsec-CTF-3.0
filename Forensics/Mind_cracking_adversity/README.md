@@ -6,3 +6,6 @@ Help me find out what I built inside!
 Note: If you are unable to see the words clearly, open a ticket and show a proof that you found it.
 
 *Author: xzy_10*
+
+## Flag
+`IRS{M1N3VI3W3R}`
