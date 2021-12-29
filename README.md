@@ -15,6 +15,8 @@ https://github.com/junron/writeups/blob/master/2021/sieberrsec
 
 https://github.com/xeniafiorenza/CTF-Writeups/tree/main/Sieberrsec%202021
 
+https://github.com/8061xjl/ctf-writeups/blob/main/sctf-3.0.md
+
 https://nandynarwhals.org/sieberrsec-ctf-3.0-canyoumathit/
 
 https://nandynarwhals.org/sieberrsec-ctf-3.0-digginginthedump/
