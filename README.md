@@ -7,15 +7,15 @@ This repository is a dumping ground for all of the challenge files, descriptions
 If you feel that a challenge archive could use additional information, you may wish to raise an Issue on this repo.
 
 # Writeup dump
-https://github.com/DenseLance/ctf-challenges/tree/main/Sieberrsec%20CTF%203.0
-
-https://github.com/IRS-Cybersec/ctfdump/tree/master/Sieberrsec%20CTFs/Sieberrsec%20CTF%203.0/
-
-https://github.com/junron/writeups/blob/master/2021/sieberrsec
-
 https://github.com/xeniafiorenza/CTF-Writeups/tree/main/Sieberrsec%202021
 
 https://github.com/8061xjl/ctf-writeups/blob/main/sctf-3.0.md
+
+https://github.com/DenseLance/ctf-challenges/tree/main/Sieberrsec%20CTF%203.0
+
+https://github.com/junron/writeups/blob/master/2021/sieberrsec
+
+https://github.com/IRS-Cybersec/ctfdump/tree/master/Sieberrsec%20CTFs/Sieberrsec%20CTF%203.0/
 
 https://nandynarwhals.org/sieberrsec-ctf-3.0-canyoumathit/
 
