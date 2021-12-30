@@ -38,7 +38,7 @@ OSINT | [We go way back](OSINT/We_go_way_back) | [xeniafiorenza](https://blog.xe
 Pwn | [malloc](Pwn/malloc) | [junron](https://github.com/junron/writeups/blob/master/2021/sieberrsec/malloc.md) [nnamon](https://nandynarwhals.org/sieberrsec-ctf-3.0-malloc/)
 Pwn | [rock farm simulator 2011](Pwn/rock_farming_simulator) | [8061xjl](https://github.com/8061xjl/ctf-writeups/blob/main/sctf-3.0.md#rock-farm-simulator-2011)
 Pwn | [rock farming simulator deluxe edition](Pwn/rock_farming_simulator_deluxe_edition) | NIL; the one and only unsolved challenge
-Pwn | [simple](Pwn/simple) | 
+Pwn | [simple](Pwn/simple) | NIL
 Pwn | [turbofastcrypto part 2](Pwn/turbofastcrypto) | [junron](https://github.com/junron/writeups/blob/master/2021/sieberrsec/turbocrypto2.md) [nnamon](https://nandynarwhals.org/sieberrsec-ctf-3.0-turbofastcrypto/)
 Pwn | [warmup](Pwn/warmup) | [junron](https://github.com/junron/writeups/blob/master/2021/sieberrsec/warmup.md)
 RE | [Flag Checker](RE/flag-checker) | [Sieberrsec](https://github.com/IRS-Cybersec/ctfdump/tree/master/Sieberrsec%20CTFs/Sieberrsec%20CTF%203.0/RE/flag_checker)
