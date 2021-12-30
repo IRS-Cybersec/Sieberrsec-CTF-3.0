@@ -22,3 +22,6 @@ I think that the camera is intentionally pointed away from something we need to 
 Find a way to rotate the camera (pan the camera) and let us see more things.
 
 http://challs.sieberrsec.tech:4896
+
+Credits for images are in chall/note.txt.
+The 3D models are mostly self-made. They utilise textures and assets from from ambientCG.com, licensed under CC0 1.0 Universal.
