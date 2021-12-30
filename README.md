@@ -22,7 +22,7 @@ Forensics | [Digging in the dump Pt. I](Forensics/Digging_in_the_dump) | [8061xj
 Forensics | [Digging in the dump Pt. II](Forensics/Digging_in_the_dump) | [8061xjl](https://github.com/8061xjl/ctf-writeups/blob/main/sctf-3.0.md#digging-in-the-dump-pt-ii) [nnamon](https://nandynarwhals.org/sieberrsec-ctf-3.0-digginginthedump/)
 Forensics | [Duck delivery](Forensics/Duck_delivery) | [xeniafiorenza](https://blog.xeniafiorenza.me/Sieberrsec%202021/Forensics/Duck%20Delivery) [8061xjl](https://github.com/8061xjl/ctf-writeups/blob/main/sctf-3.0.md#duck-delivery)
 Forensics | [Exploring the universe 2](Forensics/Exploring_the_universe_2) | [xeniafiorenza](https://blog.xeniafiorenza.me/Sieberrsec%202021/Forensics/Exploring%20The%20Universe!%20(Part%202%29 )
-Forensics | [Hexed It](Forensics/Hexed_It) | NIL; unreleased challenge
+Forensics | [Hexed It](Forensics/Hexed_It) (unreleased challenge) | [absurdtiger](https://github.com/absurdtiger/Sieberrsec-CTF-3.0/tree/main/Forensics/Hexed%20It)
 Forensics | [I lost my anime collection!](Forensics/I_lost_my_anime_collection) | [8061xjl](https://github.com/8061xjl/ctf-writeups/blob/main/sctf-3.0.md#i-lost-my-anime-collection-pt-i)
 Forensics | [Mind Cracking Adversity](Forensics/Mind_cracking_adversity) | [DenseLance](https://github.com/DenseLance/ctf-challenges/tree/main/Sieberrsec%20CTF%203.0/Mind%20Cracking%20Adversity)
 Forensics | [plush, lush, flush, blush](Forensics/plush_lush_flush_blush) | [DenseLance](https://github.com/DenseLance/ctf-challenges/tree/main/Sieberrsec%20CTF%203.0/plush%2C%20lush%2C%20flush%2C%20blush)
