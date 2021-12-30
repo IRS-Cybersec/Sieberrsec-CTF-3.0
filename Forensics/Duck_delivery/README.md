@@ -3,6 +3,10 @@ I ordered duck for dinner but all I got was an empty box! Can you help me find w
 
 [DuckBox.jpg](DuckBox.jpg)
 
+File DuckBox.jpg obtained from http://clipart-library.com/clipart/1590110.htm and edited
+
+File duck.gif obtained from https://www.pinterest.com/pin/604960162448926414/ and edited
+
 _Author: ditzchann_
 
 ## Hints
