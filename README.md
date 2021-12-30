@@ -20,7 +20,7 @@ Crypto | [whodunnit](Crypto/whodunnit) |
 Forensics | [Birds](Forensics/Birds) | [xeniafiorenza](https://github.com/xeniafiorenza/CTF-Writeups/tree/main/Sieberrsec%202021/Forensics/Birds)
 Forensics | [Digging in the dump](Forensics/Digging_in_the_dump) | 
 Forensics | [Duck delivery](Forensics/Duck_delivery) | [xeniafiorenza](https://github.com/xeniafiorenza/CTF-Writeups/tree/main/Sieberrsec%202021/Forensics/Duck%20Delivery)
-Forensics | [Exploring the universe 2](Forensics/Exploring_the_universe_2) | [xeniafiorenza](https://github.com/xeniafiorenza/CTF-Writeups/tree/main/Sieberrsec%202021/Forensics/Exploring%20The%20Universe!%20(Part%202\))
+Forensics | [Exploring the universe 2](Forensics/Exploring_the_universe_2) | [xeniafiorenza](https://github.com/xeniafiorenza/CTF-Writeups/tree/main/Sieberrsec%202021/Forensics/Exploring%20The%20Universe!%20(Part%202%29)
 Forensics | [Hexed It](Forensics/Hexed_It) | 
 Forensics | [I lost my anime collection](Forensics/I_lost_my_anime_collection) | 
 Forensics | [Mind cracking adversity](Forensics/Mind_cracking_adversity) | 
@@ -43,7 +43,7 @@ Pwn | [warmup](Pwn/warmup) |
 RE | [flag-checker](RE/flag-checker) | 
 RE | [flagcheckerv2](RE/flagcheckerv2) | 
 RE | [reverse](RE/reverse) | 
-Web | [Exploring the Universe 1](Web/Exploring_the_Universe_1) | [xeniafiorenza](https://github.com/xeniafiorenza/CTF-Writeups/tree/main/Sieberrsec%202021/Web/Exploring%20The%20Universe!%20(Part%201\))
+Web | [Exploring the Universe 1](Web/Exploring_the_Universe_1) | [xeniafiorenza](https://github.com/xeniafiorenza/CTF-Writeups/tree/main/Sieberrsec%202021/Web/Exploring%20The%20Universe!%20(Part%201%29)
 Web | [sctf-camera](Web/sctf-camera) | 
 Web | [sctf-jwt](Web/sctf-jwt) | 
 
