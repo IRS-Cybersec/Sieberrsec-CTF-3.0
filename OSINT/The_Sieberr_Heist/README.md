@@ -63,7 +63,9 @@ E. Bus route number *(any letter should be in capitals)*
 
 F. Destination of the bus route that the bus is heading to *(without any spacing and in all capitals)*
 
-[the_sieberr_heist_part2.png](the_sieberr_heist_part2.png) (Obtained from YouTube video "Transport for Sydney Vlog 212: QVB Buses" by Transport for Sydney Vlogs https://www.youtube.com/watch?v=_eqfYSeB_CY, at 6:29)
+[the_sieberr_heist_part2.png](the_sieberr_heist_part2.png)
+
+File the_sieberr_heist_part2.png obtained from YouTube video "Transport for Sydney Vlog 212: QVB Buses" by Transport for Sydney Vlogs https://www.youtube.com/watch?v=_eqfYSeB_CY, at 6:29.
 
 ### Flags
  * `IRS{YORKST_DRUITTST_VOLVO_B12BLEA_340_BONDIJUNCTION}`
