@@ -25,7 +25,7 @@ Forensics | [Exploring the universe 2](Forensics/Exploring_the_universe_2) | [xe
 Forensics | [Hexed It](Forensics/Hexed_It) (unreleased challenge) | [absurdtiger](https://github.com/absurdtiger/Sieberrsec-CTF-3.0/tree/main/Forensics/Hexed%20It)
 Forensics | [I lost my anime collection!](Forensics/I_lost_my_anime_collection) | [8061xjl](https://github.com/8061xjl/ctf-writeups/blob/main/sctf-3.0.md#i-lost-my-anime-collection-pt-i)
 Forensics | [Mind Cracking Adversity](Forensics/Mind_cracking_adversity) | [DenseLance](https://github.com/DenseLance/ctf-challenges/tree/main/Sieberrsec%20CTF%203.0/Mind%20Cracking%20Adversity)
-Forensics | [plush, lush, flush, blush](Forensics/plush_lush_flush_blush) | [DenseLance](https://github.com/DenseLance/ctf-challenges/tree/main/Sieberrsec%20CTF%203.0/plush%2C%20lush%2C%20flush%2C%20blush)
+Forensics | [plush, lush, flush, blush](Forensics/plush_lush_flush_blush) | [DenseLance](https://github.com/DenseLance/ctf-challenges/tree/main/Sieberrsec%20CTF%203.0/plush%2C%20lush%2C%20flush%2C%20blush) [absurdtiger](https://github.com/absurdtiger/Sieberrsec-CTF-3.0/blob/main/Forensics/plush_lush_flush_blush/README.md)
 Misc | [Can You Math It?](Misc/can_you_math_it) | [nnamon](https://nandynarwhals.org/sieberrsec-ctf-3.0-canyoumathit/)
 Misc | [Heads and Tails 1](Misc/Heads_and_Tails) | [xeniafiorenza](https://blog.xeniafiorenza.me/Sieberrsec%202021/Miscellaneous/Heads%20and%20Tails%20Part%201) [absurdtiger](https://github.com/absurdtiger/Sieberrsec-CTF-3.0/blob/main/Misc/Heads%26Tails/Part%201%20Writeup.md)
 Misc | [Heads and Tails 2](Misc/Heads_and_Tails) | [absurdtiger](https://github.com/absurdtiger/Sieberrsec-CTF-3.0/blob/main/Misc/Heads%26Tails/Part%202%20Writeup.md)
