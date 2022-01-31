@@ -5,7 +5,8 @@ from Crypto.Util.number import getPrime, long_to_bytes
 from Crypto.Util.Padding import pad
 
 
-flag = "IRS{5m411_5ubgr0up_4tt4cc}"
+with open('flag.txt', 'rb') as f:
+    flag = f.read()
 
 
 g = 5
